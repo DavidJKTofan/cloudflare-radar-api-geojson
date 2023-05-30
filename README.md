@@ -2,6 +2,8 @@
 
 Cloudflare Workers which uses the Cloudflare API to fetch data from multiple Cloudflare RADAR endpoints and returns the results as a GeoJSON.
 
+Alternative JSON Output: https://github.com/DavidJKTofan/cloudflare-radar-api
+
 ### GeoJSON
 
 Display the output on [geojson.io](https://geojson.io/).
