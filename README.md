@@ -1,3 +1,5 @@
+> *This project is NOT being actively maintained. Take into account any latest changes to the Cloudflare API or Cloudflare Radar: https://developers.cloudflare.com/radar/release-notes/ 
+
 ## Cloudflare Workers for Cloudflare RADAR API
 
 Cloudflare Workers which uses the Cloudflare API to fetch data from multiple Cloudflare RADAR endpoints and returns the results as a GeoJSON.
